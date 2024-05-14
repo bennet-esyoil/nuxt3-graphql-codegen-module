@@ -1,6 +1,6 @@
 {
-  "name": "@nuxt3/graphql-codegen-module",
-  "version": "0.0.6",
+  "name": "@esyoil-gmbh/graphql-codegen-module",
+  "version": "0.1.0",
   "description": "Nuxt module for Graphql code generator",
   "keywords": [
     "nuxt",
